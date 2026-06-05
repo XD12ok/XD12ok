@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Halo, perkenalkan saya Arsa Pradityo Nugroho. Saya bersekolah di SMKN 8 Semarang (sekarang xixi)<br>Saya seorang full stack web developer tapi saya lebih suka bagian backend xixixi, berfokus pada frame work laravel<br>Saya juga berpengalaman dalam pembuatan aplikasi destop berbahasa C#<br>saya juga mengembangkan homelab saya sendiri<br>saya juga bisa membuat aplikasi mobile kotlin dan flutter<br>saya juga sempat membuat beberapa projek AI dengan mengugnakan python dan openpipe API<br>yaa.... mungkin sekian tentang saya <br>byee XD<br><br>btw im using Arch linux (joking tho)<br>but, if you have any question about arch you can ask me, maybe i can help you  ,")
+Halo, perkenalkan saya Arsa Pradityo Nugroho. Saya bersekolah di SMKN 8 Semarang (sekarang xixi)<br>Saya seorang full stack web developer tapi saya lebih suka bagian backend xixixi, focused on pada laravel<br>Saya juga berpengalaman dalam pembuatan aplikasi destop berbahasa C#<br>saya juga mengembangkan homelab saya sendiri<br>saya juga bisa membuat aplikasi mobile kotlin dan flutter<br>saya juga sempat membuat beberapa projek AI dengan mengugnakan python dan openpipe API<br>yaa.... mungkin sekian tentang saya <br>byee XD<br><br>btw im using Arch linux (joking tho)<br>but, if you have any question about arch you can ask me, maybe i can help you  ,")
 
 
 ## 🌐 Socials:
