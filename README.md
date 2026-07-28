@@ -16,7 +16,7 @@
 
 Hi! I'm **Arsa Pradityo Nugroho**.
 
-🎓 Student at **SMKN 8 Semarang**
+ Student at **SMKN 8 Semarang**
 
 I enjoy building scalable applications and learning new technologies every day.
 
@@ -26,11 +26,7 @@ I enjoy building scalable applications and learning new technologies every day.
 - ❤️ Backend Developer (Laravel is my favorite)
 - 💻 Desktop Application Developer using C#
 - 📱 Mobile Developer (Flutter & Kotlin)
-- 🤖 AI Projects with Python
 - 🏠 Homelab Enthusiast
-- 🐧 Arch Linux User
-
-> **"I use Arch, btw."** 😆
 
 ---
 
@@ -100,30 +96,6 @@ I enjoy building scalable applications and learning new technologies every day.
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white">
 
-<img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B">
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=XD12ok&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XD12ok&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=XD12ok&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -138,17 +110,7 @@ I enjoy building scalable applications and learning new technologies every day.
 
 ---
 
-# ☕ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎵 Currently Coding
+# Currently Coding
 
 ```cpp
 while (alive)
